@@ -1,0 +1,10 @@
+{
+    "name": "Cadema.Z1log.Editor",
+    "references": [
+      "Cadema.Z1log"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

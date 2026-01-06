@@ -1,0 +1,11 @@
+{
+    "name": "Cadema.Z1log.Tests",
+    "references": [
+        "Cadema.Z1log"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

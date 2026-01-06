@@ -1,0 +1,14 @@
+{
+  "name": "com.cadema.z1log",
+  "displayName": "Z1 Log",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "unityRelease": "2f1",
+  "description": "Custom logger for more control",
+  "author": {
+    "name": "Z1 Studio"
+  },
+  "changelogUrl": "https://example.com/changelog.html",
+  "documentationUrl": "https://example.com/",
+  "licensesUrl": "https://example.com/licensing.html"
+}
